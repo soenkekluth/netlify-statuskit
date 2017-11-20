@@ -1,5 +1,7 @@
 # Introduction
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/soenkekluth/netlify-statuskit.svg)](https://greenkeeper.io/)
+
 Netlify StatusKit is a template to deploy your own Status pages on Netlify.
 
 [![Netlify StatusKit Demo](http://statuskit.netlify.com/statuskit.png)](https://statuskit.netlify.com/)
